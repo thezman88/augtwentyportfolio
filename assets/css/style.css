@@ -26,7 +26,7 @@ hr{
 }
 
 .info-section{
-    margin-bottom: 65px;
+    /* margin-bottom: 65px; */
     /* background: url(https://images.pexels.com/photos/1090972/pexels-photo-1090972.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
     background-repeat: no-repeat;
     box-shadow:inset 0 0 0 2000px rgba(5, 5, 5, 0.301);
@@ -89,14 +89,14 @@ hr{
     border-radius: 50%;
     height: 165px;
 }
-.pictureSection{
+.info-section{
     background: url(https://images.pexels.com/photos/1090972/pexels-photo-1090972.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
     background-repeat: no-repeat;
     box-shadow:inset 0 0 0 2000px rgba(5, 5, 5, 0.301);
     background-attachment: fixed;
     background-position: center;
     background-color: rgba(0, 0, 0, 0.596);
-    height: 95vh;
+    height: 100vh;
 }
 
 .aboutZach{
