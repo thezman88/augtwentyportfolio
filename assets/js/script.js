@@ -1,7 +1,5 @@
-let aarowBtn = document.getElementById('arrowScrollBtn');
+// let downArrow = document.getElementById('arrowScrollBtn');
 
-const clicker = () =>{
-    console.log('it clicked');
-}
-
-aarowBtn.addEventListener('click', clicker);
+// downArrow.addEventListener('click', function(){
+//     this.scrollIntoView({behavior:'smooth', #section1})
+// });
