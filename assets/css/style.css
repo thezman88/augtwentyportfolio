@@ -3,6 +3,9 @@
 .home{
     color:orangered !important
 }
+#testSection{
+    background-color: rgba(255, 0, 0, 0);
+}
 html {
     scroll-behavior: smooth;
   }
