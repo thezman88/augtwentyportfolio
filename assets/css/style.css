@@ -152,7 +152,7 @@ hr{
 .bamBack{
     height: 200px;
     /* width: 200px; */
-    background-image: url('/img/bamShot.png');
+    background-image: url('../../assets/images/bamShot.png');
     -webkit-background-size: contain;
     -moz-background-size: contain;
     -o-background-size: contain;
@@ -162,7 +162,7 @@ hr{
 .liriBack{
     height: 200px;
     /* width: 200px; */
-    background-image: url('/img/liriPic.png');
+    background-image: url('../../assets/images/liriPic.png');
     -webkit-background-size: contain;
     -moz-background-size: contain;
     -o-background-size: contain;
@@ -173,7 +173,7 @@ hr{
 .groundzBack{
     height: 200px;
     /* width: 200px; */
-    background-image: url('/img/groundzPic.png');
+    background-image: url('../../assets/images/groundzPic.png');
     -webkit-background-size: contain;
     -moz-background-size: contain;
     -o-background-size: contain;
@@ -183,7 +183,7 @@ hr{
 .gruberBack{
     height: 200px;
     /* width: 200px; */
-    background-image: url('/img/gruberPic.png');
+    background-image: url('../../assets/images/gruberPic.png');
     -webkit-background-size: contain;
     -moz-background-size: contain;
     -o-background-size: contain;
